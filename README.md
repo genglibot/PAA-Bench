@@ -1,1 +1,3 @@
-# Are-We-Evaluating-VLM-Token-Pruning-Right-Looking-Beyond-Accuracy-and-Token-Count
+# PAA-Bench: Are We Evaluating VLM Token Pruning Right?
+
+Code coming soon.
